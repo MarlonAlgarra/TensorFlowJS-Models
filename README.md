@@ -1,2 +1,2 @@
 # TensorFlowJS-Models
-A repository with my learning of Tensorflow.js
+A repository with my learning of Tensorflow.js from Coursera
